@@ -12,7 +12,7 @@ switch(news)
     cout<<"*Geo news*";
  	break;
  default:
- 	cout<<"*There is no news channel like that to show you*";
+ 	cout<<"***There is no news channel like that to show you***";
 }
 return 0;
 }
